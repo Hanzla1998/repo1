@@ -1,6 +1,2 @@
-hello 
-world
-welcome
-to 
-punjab
-isko pull krke dikha be saale
+
+print("hello world")
